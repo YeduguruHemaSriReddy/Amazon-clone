@@ -9,11 +9,15 @@ A simple Amazon Clone built using HTML and CSS. This project replicates the UI o
 ✔ Clean and structured HTML & CSS
 
 📂 Project Structure
-amazon-clone/  
-│── index.html       (Main HTML file)  
-│── style.css        (CSS file for styling)  
-│── images/          (Folder for images)  
-│── README.md        (Project documentation)
+Amazon-clone/       
+│── README.md   (Project documentation)
+│── LICENSE     (License file)
+│── index.html  (Main HTML file)
+│── style.css   (CSS file for styling)
+│── images/     (Folder for images)
+│   │── screenshot1.jpg
+│   │── screenshot2.jpg
+
 
 🚀 Live Demo
 You can view the live project here:
@@ -31,13 +35,8 @@ CSS3
 
 🔧 Installation & Usage
 1. Clone the repository
-git clone https://github.com/YeduguruHemaSriReddy/amazon-clone.git
+git clone https://github.com/YeduguruHemaSriReddy/Amazon-clone.git
 2. Open index.html in a browser to view the project.
-
-🎯 Future Improvements
-🔹 Add JavaScript for cart functionality
-🔹 Improve responsiveness with Flexbox/Grid
-🔹 Include a product detail page
 
 📜 License
 This project is open-source and available under the MIT License.
