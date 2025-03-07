@@ -10,8 +10,8 @@ A simple Amazon Clone built using HTML and CSS. This project replicates the UI o
 
 📂 Project Structure
 Amazon-clone/       
-│── README.md   (Project documentation)
 │── LICENSE     (License file)
+│── README.md   (Project documentation)
 │── index.html  (Main HTML file)
 │── style.css   (CSS file for styling)
 │── images/     (Folder for images)
