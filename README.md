@@ -25,9 +25,9 @@ CSS3
 
 
 📷 Screenshots
-![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/main/amazon_clone_pic_1.png)
-![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/refs/heads/main/amazon_clone_pic_2.png)
-![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/refs/heads/main/amazon_clone_pic_3.png)
+![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/refs/heads/main/amazon%20clone%20pic%201.png)
+![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/refs/heads/main/amazon%20clone%20pic%202.png)
+![Amazon Clone](https://raw.githubusercontent.com/YeduguruHemaSriReddy/Amazon-clone/refs/heads/main/amazon%20clone%20pic%203.png)
 
 🔧 Installation & Usage
 1. Clone the repository
