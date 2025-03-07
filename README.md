@@ -17,7 +17,7 @@ amazon-clone/
 
 🚀 Live Demo
 You can view the live project here:
-👉 Amazon Clone Live (Replace with your actual GitHub Pages link)
+👉 Amazon Clone Live (yeduguruhemasrireddy.github.io/Amazon-clone)
 
 💻 Technologies Used
 HTML5
@@ -26,7 +26,6 @@ CSS3
 
 📷 Screenshots
 
-(Add some screenshots of your project here if possible)
 
 🔧 Installation & Usage
 1. Clone the repository
